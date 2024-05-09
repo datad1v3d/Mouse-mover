@@ -17,7 +17,7 @@ def generate_random_quote():
 
 def display_quote(quote):
     """Display the quote."""
-    print("Random Quote:")
+    print("Random Quote: from david")
     print(quote)
     print()
 
