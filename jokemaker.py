@@ -30,3 +30,4 @@ if __name__ == "__main__":
             time.sleep(10)  # Display a new quote every 10 seconds
     except KeyboardInterrupt:
         print("\nProgram terminated by user")
+        print('wedigraph')
