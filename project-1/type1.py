@@ -1,2 +1,2 @@
 print ('hello world')
-print ('print wedigraft')
+print ('print white')
