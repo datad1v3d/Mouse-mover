@@ -1,1 +1,1 @@
-print('wedigraf')
+print('white')
